@@ -1,0 +1,5 @@
+Python Libraries required
+
+1. PyautoGUI
+2. OpenCv
+3. Pyperclip
